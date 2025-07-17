@@ -1,0 +1,19 @@
+* 5721a79 (origin/features/stage5, features/stage5) i modified
+* ed5d948 in staging new file
+* aa7af90 (origin/features/stage4, features/stage4) i'm deleting the file
+* 30bf978 mv file5.txt to newfile5.txt
+* d888539 (origin/features/stage3, features/stage3) now i modified the file4
+* e5aa698 this is my new file in branch 3
+| *   5d1a501 (HEAD -> main, origin/main) Merge remote-tracking branch 'origin/main' into main
+| |\  
+| | * 6f4a88b Initial commit
+| * b609e66 Added newfile.txt in main branch
+|/  
+* 6fdfddb (features/stage1) submitted changes
+* 3528807 just i modified
+| * 3a3f554 (features/stage2) updated new content
+| * dd3dd7c Deleted file1.txt in features/stage2
+|/  
+* 3ac2ef3 file 3 is committed
+* 6c52961 my second commit
+* d346122 here i committed
