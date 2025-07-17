@@ -1,0 +1,1 @@
+"I created new stage and new file and add text in files"
